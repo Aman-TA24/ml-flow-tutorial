@@ -1,0 +1,15 @@
+artifact_uri: /home/aman/projects/ML Flow/pydataberlin-2019/mlruns/891971101205327891/e8f5b4afb81a489e9526e1d24ac85b92/artifacts
+end_time: 1731654200508
+entry_point_name: ''
+experiment_id: '891971101205327891'
+lifecycle_stage: active
+run_id: e8f5b4afb81a489e9526e1d24ac85b92
+run_name: lyrical-bass-445
+run_uuid: e8f5b4afb81a489e9526e1d24ac85b92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731654195074
+status: 3
+tags: []
+user_id: aman

@@ -1,0 +1,15 @@
+artifact_uri: /home/aman/projects/ML Flow/pydataberlin-2019/mlruns/891971101205327891/df559dac75594bfc920255b7bec10b3a/artifacts
+end_time: 1731654214623
+entry_point_name: ''
+experiment_id: '891971101205327891'
+lifecycle_stage: active
+run_id: df559dac75594bfc920255b7bec10b3a
+run_name: learned-cub-101
+run_uuid: df559dac75594bfc920255b7bec10b3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731654212634
+status: 3
+tags: []
+user_id: aman
